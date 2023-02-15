@@ -6,10 +6,10 @@ void main()
     {
         if(i == 5)
         {
-            goto lable;
+            goto label;
         }
         printf("\n%d",i);
     }
-    lable:
+    label:
         printf("\nThis is goto statment.");
 }
